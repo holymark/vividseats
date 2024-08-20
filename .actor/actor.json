@@ -1,8 +1,8 @@
 {
 	"actorSpecification": 1,
 	"name": "src",
-	"title": "Project Cheerio Crawler Typescript",
-	"description": "Crawlee and Cheerio project in typescript.",
+	"title": "Vividseats",
+	"description": "Scrape data events from Vividseats.com",
 	"version": "0.0",
 	"meta": {
 		"templateId": "ts-crawlee-cheerio"
