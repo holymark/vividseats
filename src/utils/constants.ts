@@ -5,3 +5,5 @@ export enum labels {
   }
   export const base_url = "https://vividseats.com";
   
+
+  export const categories = ["sports", "theater", "concerts"]
